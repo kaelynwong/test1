@@ -7,3 +7,5 @@ Wei Pin teaching her
 1. Always pull
 2. Commit
 3. Then push
+
+I am stressed
