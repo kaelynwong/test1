@@ -9,3 +9,4 @@ Wei Pin teaching her
 3. Then push
 
 I am stressed
+Dunnid scared one
